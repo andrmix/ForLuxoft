@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name ="Suite 1" verbose="1">
+ 
+    <test name="LuxoftSiteTest Chrome">
+        <classes>
+            <class name="com.andrmix.test.luxoftsitetest.testers.MainTest"/>
+        </classes>
+    </test>
+</suite>
